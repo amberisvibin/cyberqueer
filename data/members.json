@@ -10,5 +10,11 @@
     "url": "https://anlucas.neocities.org",
     "frameAncestor": "anlucas.neocities.org",
     "feed": null
+  },
+  {
+    "title": "ambersplace",
+    "url": "https://ambersplace.neocities.org/",
+    "frameAncestor": ['ambersplace.neocities.org"],
+    "feed": null
   }
 ]
